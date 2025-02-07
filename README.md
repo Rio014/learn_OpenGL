@@ -1,2 +1,1 @@
-# basic_graphic
-learn OpenGL
+# Learn OpenGL
